@@ -1,0 +1,21 @@
+Atividade – KNN ou K-Means?
+
+1\. Situação 1 – Plataforma de streaming
+
+R: K-Means, pois esse algoritmo permite identificar e agrupar usuários que possuem hábitos e preferências semelhantes, sem precisar definir os grupos antecipadamente.
+
+2\. Situação 2 – Diagnóstico de doenças
+
+R: KNN, pois esse algoritmo utiliza dados de pacientes já classificados para identificar a qual categoria pertence um novo paciente, considerando suas características e semelhanças com os demais.
+
+3\. Situação 3 – Agricultura inteligente
+
+R: K-Means, pois esse algoritmo consegue separar automaticamente as áreas da fazenda em grupos com características semelhantes, facilitando o planejamento da irrigação.
+
+4\. Situação 4 – Detecção de mensagens indesejadas
+
+R: KNN, pois esse algoritmo compara uma nova mensagem com outras já classificadas para identificar se ela é spam ou legítima.
+
+5\. Situação 5 – Organização de estudantes
+
+R: K-Means, pois esse algoritmo permite agrupar estudantes com desempenhos semelhantes nas disciplinas, identificando diferentes perfis sem estabelecer categorias previamente.
